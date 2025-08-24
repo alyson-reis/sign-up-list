@@ -17,6 +17,6 @@ Este projeto é um **formulário de cadastro** desenvolvido em **React** com **T
 - ✅ Exibir o inscrito na lista ao lado
 - ✅ Salvar os dados no LocalStorage
 - ❌ Exibir mensagens de erro se:
--- O nome não for preenchido
--- O e-mail for inválido
--- Os termos não forem aceitos
+  - O nome não for preenchido
+  - O e-mail for inválido
+  - Os termos não forem aceitos
